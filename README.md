@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">      
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Tediousday93&show_icons=true&theme=github_dark_dimmed&hide=">
 
 <br>
+<h1>✧ Language & Skills</h1>
+<p>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white">
+</p>
 <br>
 
 ## 💻 Problem Solving
