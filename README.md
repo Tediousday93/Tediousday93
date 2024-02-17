@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     - 😊 선언형, 함수형 프로그래밍을 좋아합니다. <br>
     - ✏️ 성장을 위해 지속적인 학습을 지향합니다. <br>
     </p>
-<br><br><br><br>
+<br><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Tediousday93&show_icons=true&theme=github_dark_dimmed&hide=">
 
 <br>
