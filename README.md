@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:1E90FF&text=Welcome%20to%20Rowan's%20GitHub%20👋&fontColor=FFFFFF&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&&height=180">
 
 <h1>✨ Introduce</h1>
-<img align="right" width="30%" src="https://github.com/Tediousday93/Tediousday93/assets/114981173/62644f60-5845-44d6-b62c-874c0fc45e14">
+<img align="right" width="35%" src="https://github.com/Tediousday93/Tediousday93/assets/114981173/62644f60-5845-44d6-b62c-874c0fc45e14">
     <p style="margin-left:10px;">
     <h3>안녕하세요! <strong>iOS 개발자</strong> 로웬입니다.</h3> <br><br>
     - 🔭 문제를 해결하는 것이 즐겁습니다. <br>
