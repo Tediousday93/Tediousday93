@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <h1>✨ Introduce</h1>
 <img align="right" width="30%" src="https://github.com/Tediousday93/Tediousday93/assets/114981173/62644f60-5845-44d6-b62c-874c0fc45e14">
     <p style="margin-left:10px;">
-    <h3>안녕하세요! <strong>iOS 개발자</strong> 로웬입니다.</h3> <br><br>
+    <h3>안녕하세요! <strong>iOS 개발자</strong> 로웬입니다.</h3>
     - 🔭 문제를 해결하는 것이 즐겁습니다. <br>
     - 🌱 항상 유지•보수가 용이한 코드를 작성하려고 노력합니다. <br>
     - 😊 선언형, 함수형 프로그래밍을 좋아합니다. <br>
     - ✏️ 성장을 위해 지속적인 학습을 지향합니다. <br>
     </p>
-<br><br><br>
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Tediousday93&show_icons=true&theme=github_dark_dimmed&hide=">
 
 <br>
